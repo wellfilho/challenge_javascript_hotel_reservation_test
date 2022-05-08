@@ -19,6 +19,6 @@ $ yarn test
 ```
 
 ```
-$ npm install
+$ npm test
 ```
 **After implementing your solution, it should pass the unit tests available.** 
