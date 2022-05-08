@@ -8,9 +8,17 @@ To install the required modules:
 $ yarn install
 ```
 
+```
+$ npm install
+```
+
 To run the (failing) test:
 
 ```
 $ yarn test
+```
+
+```
+$ npm install
 ```
 **After implementing your solution, it should pass the unit tests available.** 
